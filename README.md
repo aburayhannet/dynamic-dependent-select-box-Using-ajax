@@ -1,18 +1,4 @@
-<h1 align="center">
-<br>
-  <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="130">
-  <br>
-    <br>
-  Front-End Checklist
-  <br>
-</h1>
-
----
-<h3 align="center">🚨 Currently working on a V2 of frontendchecklist.io,<br>feel free to <a href="https://github.com/thedaviddias/Front-End-Checklist/discussions">discuss</a> any feature you would like to see in the next version</h3>
-
----
-
-<h4 align="center">The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.</h4>
+<h1 align="center">dynamic-dependent-select-box-Using-ajax</h1>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
@@ -28,7 +14,6 @@
     <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
   </a>
 </p>
-
 <p align="center">
   <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://frontendchecklist.io">Website</a> • <a href="https://www.producthunt.com/posts/front-end-checklist">Product Hunt</a>
 </p>
