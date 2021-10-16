@@ -678,7 +678,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 * [ ] **sitemap.xml:** ![High][high_img] A sitemap.xml exists and was submitted to Google Search Console (previously Google Webmaster Tools).
 
-> * 🛠 [Sitemap generator](https://websiteseochecker.com/html-sitemap-generator/)
+> * 🛠 [Sitemap generator](https://aburayhan.net)
 
 * [ ] **robots.txt:** ![High][high_img] The robots.txt is not blocking webpages.
 
