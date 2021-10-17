@@ -1,4 +1,4 @@
-<h1 align="center">dynamic-dependent-select-box-Using-ajax</h1>
+<h1 align="center">Dynamic Dependent Select Box Using Ajax</h1>
 
 <p align="center">
   <a href="http://aburayhan.net">
