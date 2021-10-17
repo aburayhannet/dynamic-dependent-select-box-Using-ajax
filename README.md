@@ -6,6 +6,6 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://aburayhan.net/dynamic-dependent-select-box-using-jquery-ajax-and-php/">How To Use</a> • <a href="https://aburayhan.net/contact-us/">Connact Us</a> • <a href="https://aburayhan.net">Website</a> 
+  <a href="https://aburayhan.net/dynamic-dependent-select-box-using-jquery-ajax-and-php/">How To Use</a> • <a href="https://aburayhan.net/contact-us/">contact Us</a> • <a href="https://aburayhan.net">Website</a> 
 </p>
 
